@@ -1,5 +1,5 @@
 --------------------------------------------------------
-**GIT** 
+<h3>**GIT**</h3>
 
 1. Run git command to check if git is running perfectly 
 2. Run ls command to list all the things in specific folder 
@@ -18,7 +18,7 @@
 
 --------------------------------------------------------
 
-**GITHUB**
+<h3>**GITHUB**</h3>
 
 1. Use Git remote add origin (http address ) to add the Repo Url 
 
@@ -33,7 +33,7 @@
 ** head will point to your branch now instead of main 
 7.
 
-**EXTRA POINTS** 
+<h3>**EXTRA POINTS**</h3>
 
 
 1. NEVER EVER commit something directly to the main branch because that is the code which is used by many people 
