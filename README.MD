@@ -1,5 +1,5 @@
 --------------------------------------------------------
-GIT 
+**GIT** 
 
 1. Run git command to check if git is running perfectly 
 2. Run ls command to list all the things in specific folder 
@@ -18,7 +18,7 @@ GIT
 
 --------------------------------------------------------
 
-GITHUB 
+**GITHUB**
 
 1. Use Git remote add origin (http address ) to add the Repo Url 
 
@@ -29,13 +29,13 @@ GITHUB
 3. Use git clone ( url of project ) to clone the Project 
 4. Use git remote add upstream ( url ) to clone the others project ( main )
 5. use git branch ( your branch ) to make a new branch 
-6. use git checkout ( branch name ) to check if the branch exists 
+6. use git checkout ( branch name ) to check if the branch exists .
 ** head will point to your branch now instead of main 
 7.
 
-// EXTRA POINTS 
+**EXTRA POINTS** 
 
-Some Important POINTS -> 
+
 1. NEVER EVER commit something directly to the main branch because that is the code which is used by many people 
 2. BRANCHES ARE FORM OF CHAIN LIKE COMMITS. 
 3. MAKE DIFFERENT BRANCHES FOR DIFFERENT FEATURES AND MERGE
