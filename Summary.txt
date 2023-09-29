@@ -20,3 +20,7 @@ GIT
 
 GITHUB 
 
+1. Use Git remote add origin (http address ) to add the Repo Url 
+1.2 remote Means We are working With the URLS
+1.3 add origin means we are adding the url to the repo we are currently Working on 
+2.
