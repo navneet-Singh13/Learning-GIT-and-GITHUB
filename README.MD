@@ -34,9 +34,9 @@
 <h1>EXTRA POINTS</h1>
 
 
-- NEVER EVER commit something directly to the main branch because that is the code which is used by many people 
-- BRANCHES ARE FORM OF CHAIN LIKE COMMIT. 
-- MAKE DIFFERENT BRANCHES FOR DIFFERENT FEATURES AND MERGE
-  THEM LATER FOR THE FINALIZATION 
-- FORK PROJECTS ( OPEN SOURCED ) TO MAKE COPY OF 
-  THEM IN YOUR OWN ACCOUNT 
+- Never Ever Commit Something Directly To The Main Branch Because That Is The Code Which Is Used By Many People 
+- Branches Are Form Of Chain Like Commit. 
+- Make Different Branches For Different Features And Merge
+  Them Later For The Finalization 
+- Fork Projects ( Open Sourced ) To Make Copy Of 
+  Them In Your Own Account 
