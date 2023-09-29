@@ -1,4 +1,4 @@
---------------------------------------------------------
+
 <h1>GIT</h1>
 
 1. Run git command to check if git is running perfectly 
@@ -16,7 +16,7 @@
 13. Run git reset (commit unique ID ) to Reset to that Past Change
 14. Run git stash pop command to bring back changes to staging area that were unstaged 
 
---------------------------------------------------------
+
 
 <h1>GITHUB</h1>
 
@@ -30,8 +30,8 @@
 4. Use git remote add upstream ( url ) to clone the others project ( main )
 5. use git branch ( your branch ) to make a new branch 
 6. use git checkout ( branch name ) to check if the branch exists .
-** head will point to your branch now instead of main 
-7.
+- head will point to your branch now instead of main 
+
 
 <h1>EXTRA POINTS</h1>
 
