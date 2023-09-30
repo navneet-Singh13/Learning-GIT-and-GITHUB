@@ -15,6 +15,11 @@
 - Run _rm_ ( file name ) to delete/remove the file 
 - Run _git reset_ (commit unique ID ) to Reset to that Past Change
 - Run _git stash pop_ command to bring back changes to staging area that were unstaged 
+- Run _..cmd_ command to go up the folder 
+- Run _git config --global user.email/name_ {email / uname }
+- Run _git --version_ to check what version you are using
+- Run _rmdir_ command to remove the directory 
+- Run _clear_ command to clear the Terminal 
 
 
 
@@ -40,3 +45,4 @@
   Them Later For The Finalization 
 - Fork Projects ( Open Sourced ) To Make Copy Of 
   Them In Your Own Account 
+- You can't delete a nonempty directory and you have to go to parent directory for that 
