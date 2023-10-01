@@ -34,6 +34,7 @@
 - use _git branch_ ( your branch ) to make a new branch 
 - use _git checkout_ ( branch name ) to check if the branch exists .
 - head will point to your branch now instead of main 
+- use _git rebase -i_ (interactive Environment ) {lastest commit } to merge particular commits 
 
 
 <h1>EXTRA POINTS</h1>
@@ -46,3 +47,4 @@
 - Fork Projects ( Open Sourced ) To Make Copy Of 
   Them In Your Own Account 
 - You can't delete a nonempty directory and you have to go to parent directory for that 
+- You Have To force Push a update when you delete your previous commits 
