@@ -48,3 +48,7 @@
   Them In Your Own Account 
 - You can't delete a nonempty directory and you have to go to parent directory for that 
 - You Have To force Push a update when you delete your previous commits 
+
+
+
+ - We are Learning about Github 
