@@ -37,19 +37,3 @@
 - use _git rebase -i_ (interactive Environment ) {lastest commit } to merge particular commits 
 
 
-<h1>EXTRA POINTS</h1>
-
-
-- Never Ever Commit Something Directly To The Main Branch Because That Is The Code Which Is Used By Many People 
-- Branches Are Form Of Chain Like Commit. 
-- Make Different Branches For Different Features And Merge
-  Them Later For The Finalization 
-- Fork Projects ( Open Sourced ) To Make Copy Of 
-  Them In Your Own Account 
-- You can't delete a nonempty directory and you have to go to parent directory for that 
-- You Have To force Push a update when you delete your previous commits 
-
-
-
- - We are Learning about Github 
- we are learning technical things
